@@ -1,0 +1,3 @@
+pip install fake-useragent
+pip install openpyxl
+pip install requests beautifulsoup4 pandas numpy fake_useragent matplotlib seaborn scikit-learn
